@@ -1,0 +1,799 @@
+body {
+    background-color: black;
+    width: fit-content;
+    height: max-content;
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.header{
+    width: 100vw;
+    height: 100vh;
+}
+ /*First-Section**/
+.Social-Media{
+    background-color: transparent;
+    height: 500px;
+    width: 50px;
+    border-radius: 10px;
+    position: relative;
+    left: 90px;
+    top: -520px;
+}
+.About-Me{
+    background-color: transparent;
+    height: 600px;
+    width: 600px;
+    border-radius: 10px;
+    position: relative;
+    left: 170px;
+    bottom: 1100px;
+}
+
+.Product{
+    color: rgb(14, 243, 14);
+
+}
+.Front{
+    color: rgb(14, 243, 14);
+}
+h1{
+    position: relative;
+    left: 60px;
+    top: 20px;
+    font-size: 50px;
+    font-weight: bolder;
+}
+p{
+    position: relative;
+    left: 60px;
+    top: 20px;
+    text-decoration: none;
+    font-size: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+h4{
+    position: relative;
+    left: 60px;
+    top: 40px;
+    color: gray;
+}
+.Working{
+    position: relative;
+    left: 60px;
+    top: 10px;
+    font-size: 22px;
+}
+.Just{
+    color: rgb(14, 243, 14);
+}
+.Button-1{
+    background-color: gray;
+    text-align: center;
+    width: 180px;
+    height: 50px;
+    border-radius: 10px;
+    color: white;
+    position: relative;
+    bottom: 450px;
+    right: 26px;
+    font-size: 16px;
+    border-color: gray;
+}
+.Button-1:hover{
+    background-color: transparent;
+    color: rgb(14, 243, 14);
+    border: 1%;
+    size-adjust: 100px;
+    border-color: rgb(14, 243, 14);
+}
+h3{
+    position: relative;
+    bottom: 10px;
+}
+.hire{
+    position: relative;
+    left: 250px;
+    bottom: 740px;
+}
+.Project{
+    background-color: transparent;
+    position: relative;
+    left: 290px;
+    bottom: 740px;
+}
+.Button-2{
+    background-color: transparent;
+    text-align: center;
+    width: 180px;
+    height: 50px;
+    border-radius: 10px;
+    color: rgb(14, 243, 14);
+    position: relative;
+    bottom: 450px;
+    right: 20px;
+    font-size: 16px;
+    border-color: rgb(14, 243, 14);
+}
+.Button-2:hover{
+    background-color:gray ;
+    color: black;
+    border: 1%;
+    size-adjust: 100px;
+    border-color: gray;
+}
+.My-Image{
+    position: relative;
+    top: 0px;
+}
+img{
+    width: 600px;
+    height: 600px;
+    align-items: right;
+    position: relative;
+    left: 740px;
+}
+.facebook{
+    position: relative;
+    top: 40px;
+    left: 15px;
+    border: 3px;
+    border-radius: 100%;
+    color: white;
+}
+.google{
+    position: relative;
+    top: 110px;
+    left: 15px;
+}
+.twitter{
+    position: relative;
+    top: 170px;
+    right: 40px;
+}
+.instagram{
+    position: relative;
+    top: 260px;
+    left: 15px;
+    
+}
+.youtube{
+    position: relative;
+    top: 280px;
+    left: 15px
+}
+
+/* Style all font awesome icons */
+.fa {
+    padding: 20px;
+    font-size: 20px;
+    width: 10px;
+    height: 10px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 100%;
+
+    
+  }
+  
+  /* Add a hover effect if you want */
+  .fa:hover {
+    background: none;
+    border: 2px;
+    border-color: rgb(14, 243, 14);
+    color: rgb(14, 243, 14);
+  }
+  
+  /* Set a specific color for each brand */
+  
+  /* Facebook */
+  .fa-facebook {
+    background: rgb(14, 243, 14);
+    color: white;
+  }
+  
+  /* Twitter */
+  .fa-twitter {
+    background: rgb(14, 243, 14);
+    color: white;
+
+  }
+  .fa-youtube{
+    background: rgb(14, 243, 14);
+    color: white;
+  }
+  .fa-google{
+    background: rgb(14, 243, 14);
+    color: white;
+  } 
+.first-section{
+    background-image: url();
+    background-color: rgb(24, 20, 20);
+    background-attachment: fixed;
+    height:600px ;
+}
+/***Service Spectrum***/
+.Service{
+    text-align: center;
+    position: relative;
+    top: 40px;
+    left: -25px;
+    bottom: 30px;
+}
+.About-service{
+    text-align: center;
+    position: relative;
+    left: -10px;
+    top: 20px;
+}
+.Service-Spectrum{
+    width: 1340px;
+    text-align: center;
+    background-color: whitesmoke;
+    color: black;
+    position: relative;
+    top: -31px;
+    height: 500px;
+}
+.Spectrum{
+    text-align: center;
+    align-content: center;
+    width: 600px;
+    padding: 20px;
+    margin-top: 50px;
+}
+.user{
+    font-size: 18px;
+    width: 300px;
+    margin-top: 400px;
+    position: relative;
+    left: 40px;
+}
+.Interface{
+    font-size: 18px;
+    width: 300px;
+    margin-top: 40px;
+    position: relative;
+    left: 180px;
+}
+.Frontend{
+    font-size: 18px;
+    width: 200px;
+    margin-top: 40px;
+    position: relative;
+    left: 350px;
+    right: 50px;
+}
+.user-2{
+    top: -20px;
+    font-size: 15px;
+    width: 300px;
+    position: relative;
+    left: 10px;
+
+}
+.interface-2{
+    top: -20px;
+    font-size: 15px;
+    width: 300px;
+    position: relative;
+    left: 10px; 
+}
+.frontend-2{
+    top: -20px;
+    font-size: 15px;
+    width: 300px;
+    position: relative;
+    left: 10px; 
+}
+.project-1{
+    font-size: 16px;
+    position: relative;
+    left: 0px;
+    top: 5px;
+    text-decoration: none;
+    color: black;
+}
+.project-1:hover{
+    color: rgb(14, 243, 14);
+    text-transform: capitalize;
+}
+.project-2{
+    font-size: 16px;
+    position: relative;
+    left: 0px;
+    top: 5px;
+    text-decoration: none;
+    color: black;
+}
+.project-2:hover{
+    color: rgb(14, 243, 14);
+    text-transform: capitalize;
+}.project-3{
+    font-size: 16px;
+    position: relative;
+    left: 0px;
+    top: 5px;
+    text-decoration: none;
+    color: black;
+}
+.project-3:hover{
+    color: rgb(14, 243, 14);
+    text-transform: capitalize;
+}
+a{
+    text-decoration: none;
+}
+/*******Section 3*********/
+.Recent{
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 60px;
+    font-size: 40px;
+    position: relative;
+    left: -10px;
+}
+#Case{
+    color: rgb(14, 243, 14);
+}
+.UI{
+    width: 500px;
+    height: 500px;
+    align-items: left;
+    position: relative;
+    left: 150px;
+
+}
+.Build{
+    position: relative;
+    left: 200px;
+    top: 10px;
+    font-weight: 900;
+    font-size: 30px;
+}
+.Build-2{
+    position: relative;
+    left: 200px;
+    font-weight: 100;
+    font-size: medium;
+    text-align: left;
+    color: gray;
+
+}
+.Button-3{
+    background-color: transparent;
+    text-align: center;
+    width: 200px;
+    height: 50px;
+    border-radius: 20px;
+    color: rgb(14, 243, 14);
+    position: relative;
+    bottom: 0px;
+    right: -205px;
+    top: 30px;
+    font-size: 16px;
+    border-color: rgb(14, 243, 14);
+}
+.Button-3:hover{
+    background-color:gray ;
+    color: black;
+    border: 1%;
+    size-adjust: 100px;
+    border-color: gray;
+}
+.UX{
+    width: 500px;
+    height: 290px;
+    position: relative;
+    left: 310px;
+    margin-top: 120px;
+}
+.Noops-Salon {
+    position: relative;
+    left: 160px;
+    margin-top: 100px;
+    top: 5px;
+    font-weight: 900;
+    font-size: 30px;
+}
+.Build-3{
+    position: relative;
+    left: 160px;
+    top: 10px;
+    color: gray;
+    font-weight: 100;
+    font-size: medium;
+}
+.Button-4{
+    background-color: transparent;
+    text-align: center;
+    width: 200px;
+    height: 50px;
+    border-radius: 20px;
+    color: rgb(14, 243, 14);
+    position: relative;
+    bottom: 0px;
+    right: -160px;
+    top: 20px;
+    font-size: 16px;
+    border-color: rgb(14, 243, 14);
+}
+.Button-4:hover{
+    background-color:gray ;
+    color: black;
+    border: 1%;
+    size-adjust: 100px;
+    border-color: gray;
+}
+.button-5{
+    background-color: rgb(14, 243, 14);
+    text-align: center;
+    width: 25%;
+    height: 50px;
+    border-radius: 20px;
+    color: black;
+    position: relative;
+    bottom: 0px;
+    left: 37%;
+    top: 20px;
+    font-size: 16px;
+    border-color: rgb(14, 243, 14);
+    margin-top: 80px;
+    margin-bottom: 50px;
+
+}
+.button-5:hover{
+    background-color: darkgray;
+    color: white;
+    border: 1%;
+    size-adjust: 100px;
+    transition: cubic-bezier(0.165, 0.84, 0.44, 1);
+    border-color: darkgray;
+}
+.testimonies{
+    text-align: center;
+    background-color: whitesmoke;
+    color: black;
+    position: relative;
+    left: 0px;
+    height: max-content;
+}
+.TESTIMONIALS{
+    position: relative;
+    top: 50px;
+    bottom: 309px;
+}
+.TESTIMONIALS-2{
+    position: relative;
+    left: -10px;
+    top: 50px;
+    font-size: 35px;
+
+}
+.client{
+    position: relative;
+    left: -10px ;
+    bottom: -20px;
+}
+.client-2{
+    position: relative;
+    left: -10px;
+    top: -2px;
+}
+.h{
+    width: 5%;
+    border-style: dashed;
+    border-width: 5px;
+    position: relative;
+    left: -10px;
+    color: gray;
+}
+.h:hover{
+    color: aliceblue;
+}
+.Some{
+    font-size: 30px;
+    position: relative;
+    top: 40px;
+    color: gray;
+}
+.Brand{
+    margin-top: 100px;
+    position: relative;
+    left: 10px;
+
+}
+.image1{
+    width: 250px;
+    height: 120px;
+    position: relative;
+    left: 60px;
+
+}
+.image2{
+    width: 250px;
+    height: 120px;
+    position: relative;
+    left: 140px;
+}
+.image3{
+    width: 250px;
+    height: 120px;
+    position: relative;
+    left: 200px;
+}
+.image4{
+    width: 250px;
+    height: 120px;
+    position: relative;
+    left: 280px;
+}
+.fiverr1{
+    width: 250px;
+    height: 120px;
+    position: relative;
+    left: 60px;
+}
+.fiverr2{
+    width: 250px;
+    height: 120px;
+    position: relative;
+    left: 140px;
+}
+.fiverr3{
+    width: 250px;
+    height: 120px;
+    position: relative;
+    left: 200px;
+}
+.fiverr4{
+    width: 250px;
+    height: 120px;
+    position: relative;
+    left: 280px;
+}
+/***********Contact Section***********/
+.Contact{
+    background-color: black;
+    height: 500px;
+    position: relative;
+    top: -19px;
+}
+.contact-us{
+    position: relative;
+    left: 80px;
+    top: 80px;
+}
+.name{
+    font-size: medium;
+    font-size: 20px;
+    position: relative;
+    left: 80px;
+    top: 40px;
+}
+.work-now{
+    position: relative;
+    left: 80px;
+    top: 60px;
+}
+.social-2{
+    position: relative;
+    top: 300px;
+    left: 50px;
+}
+.facebook-1{
+    position: relative;
+    left: -70px;
+}
+.google-1{
+    position: relative;
+    left: -50px;
+}
+.youtube-1{
+    position: relative;
+    left: -30px;
+}
+.twitter-1{
+    position: relative;
+    left: -10px;
+}
+.mail{
+    position: relative;
+   left: 800px;
+   top: 200px;
+}
+#fname{
+    position: relative;
+    right: 150px;
+    top: 30px;
+    background-color: transparent;
+    height: 20px;
+    border-color: gray;
+    border-top: 0px;
+    border-left: 0px;
+    border-right: 0px;
+    color: white;
+    width: 220px;
+
+}
+#fname:hover{
+    border-color:rgb(14, 243, 14)  ;
+}
+#lname{
+    position: relative;
+    left: 120px;
+    top: 0px;
+    background-color: transparent;
+    height: 20px;
+    border-color: gray;
+    border-top: 0px;
+    border-left: 0px;
+    border-right: 0px;
+    color: white;
+    width: 220px;
+}
+#lname:hover{
+    border-color: rgb(14, 243, 14) ;
+}
+#lname:focus-visible{
+    border-top: 0px;
+    border-right: 0px;
+    border-left: 0px;
+}
+.first{
+    position: relative;
+    left: -100px;
+    bottom: -10px;
+    font-size: small;
+    width: 300px;
+}
+.last{
+    position: relative;
+    right: -100px;
+    bottom: 60px;
+    font-size: small;
+    width: 300px;
+}
+#email{
+    position: relative;
+    right: 150px;
+    top: 60px;
+    background-color: transparent;
+    height: 20px;
+    border-color: gray;
+    border-top: 0px;
+    border-left: 0px;
+    border-right: 0px;
+    color: white;
+    width: 490px;
+
+}
+#email:hover{
+    border-color: rgb(14, 243, 14) ;
+}
+#email:focus-visible{
+    border-top: 0px;
+    border-right: 0px;
+    border-left: 0px;
+}
+#message{
+    position: relative;
+    right: 150px;
+    top: 90px;
+    background-color: transparent;
+    height: 120px;
+    border-color: gray;
+    border-top: 0px;
+    border-left: 0px;
+    border-right: 0px;
+    color: white;
+    width: 489px;
+}
+#message:hover{
+    border-color: rgb(14, 243, 14) ;
+}
+.button-6{
+    width: 400px;
+    background-color: rgb(14, 243, 14);
+    height: 50px;
+    border-radius: 20px;
+    position: relative;
+    top: 140px;
+    left: -100px;
+}
+.button-6:hover{
+    background-color: gray;
+    color: white;
+    border-color: gray;
+}
+.lasthr{
+    width: 90%;
+    position: absolute;
+    top: 480px;
+    left: 45px;
+    border-width: 0.01rem;
+    
+}
+.Contact-Info{
+  background-color:black;
+  color: gray;
+  height: 300px;
+  position: relative;
+  top: -390px;
+}
+.contact-me{
+    position: absolute;
+    left: 66px;
+    top: 40px;
+}
+.latest-Project{
+    position: absolute;
+    left: 600px;
+    top: 40px;
+
+}
+.social-media{
+    position: absolute;
+    right: 160px;
+    top: 40px;
+
+}
+.text{
+    position: absolute;
+    left: -1px;
+    top: 30px;
+    width: 600px;
+    font-size: medium;
+}
+.tele{
+    position: absolute;
+    left: -0px;
+    top: 90px;
+    text-decoration-color: black;
+}
+.email-2{
+    position: absolute;
+    left: -0px;
+    top: 120px;
+    text-decoration-color: black;
+}
+.tele-2{
+    position: absolute;
+    left: 30px;
+    top: 89px;
+    width: 250px;
+    text-decoration: none;
+    color: black;
+}
+.email-3{
+    position: absolute;
+    left: 30px;
+    top: 120px;
+    text-decoration: none;
+    background-color: black;
+}
+.samples{
+    position: absolute;
+    top: 30px;
+    left: -20px;
+    width: 200px;
+}
+.social-3{
+    position: absolute;
+    top: 30px;
+    left: -20px;
+    width: 200px;
+}
+.author{
+    align-items: center;
+    position: relative;
+    left: 400px;
+    top: 140px;
+    font-size: medium;
+
+}
+.author-2{
+    height: 10px;
+    background-color:;
+    position: absolute;
+    top: 680px;
+}
